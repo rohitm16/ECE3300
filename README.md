@@ -1,4 +1,4 @@
-#ECE 3300 HDL Personal Study Notes
+ECE 3300 HDL Personal Study Notes
 
 Source & Credit
 
